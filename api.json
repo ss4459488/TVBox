@@ -540,7 +540,7 @@
             "key": "搜狗视频",
             "name": "搜狗｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/ss4459488/TVBox/refs/heads/main/JS/drpy2.min.js",
             "ext": "./JS/修罗影视.js"
         },
         {
