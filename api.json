@@ -537,11 +537,11 @@
             "ext": "./JS/芒果视频.js"
         },
         {
-            "key": "搜狗视频",
+            "key": "修罗影视",
             "name": "修罗｜视频",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/ss4459488/TVBox/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://gh-proxy.com/raw.githubusercontent.com/ss4459488/TVBox/refs/heads/main/JS/%E4%BF%AE%E7%BD%97%E5%BD%B1%E8%A7%86.js"
+            "ext": "https://gh-proxy.com/raw.githubusercontent.com/ss4459488/TVBox/refs/heads/main/JS/修罗影视.js"
         },
         {
             "key": "哔哩视频",
