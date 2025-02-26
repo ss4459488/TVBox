@@ -495,10 +495,10 @@
         },
         {
             "key": "看了么",
-            "name": "看了么｜影视",
+            "name": "起凡｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/看了么.js"
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/ss4459488/TVBox/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://gitee.com/s280738091/drwe/raw/master/JS/%E6%9F%92%E7%95%AA.js"
         },
         {
             "key": "茶杯狐",
